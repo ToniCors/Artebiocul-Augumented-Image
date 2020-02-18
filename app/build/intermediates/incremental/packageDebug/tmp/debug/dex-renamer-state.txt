@@ -1,0 +1,7 @@
+#Tue Jan 07 21:05:44 CET 2020
+base.0=D\:\\Desktop\\Workspace\\workspaceANDORID\\GoogleARCore\\augmentedimage\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=D\:\\Desktop\\Workspace\\workspaceANDORID\\GoogleARCore\\augmentedimage\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1

@@ -1,0 +1,229 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Desktop\Workspace\workspaceANDORID\ARTEBIOCUL\augmentedimage\app\src\main\AndroidManifest.xml:17:1-49:12
+INJECTED from D:\Desktop\Workspace\workspaceANDORID\ARTEBIOCUL\augmentedimage\app\src\main\AndroidManifest.xml:17:1-49:12
+INJECTED from D:\Desktop\Workspace\workspaceANDORID\ARTEBIOCUL\augmentedimage\app\src\main\AndroidManifest.xml:17:1-49:12
+INJECTED from D:\Desktop\Workspace\workspaceANDORID\ARTEBIOCUL\augmentedimage\app\src\main\AndroidManifest.xml:17:1-49:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\58bbe42af9dc6ab8bb0dab7fd636a58a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\81fa3213d122af49b668702e20557043\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.ar.sceneform.ux:sceneform-ux:1.12.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\ad9e22049ab5c81872ea5d6cc6c5c8ec\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\d6c24fb9701a96e43e9a9b71fbc89115\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\f5b6612e6763ac3c60b99c3ee23a0c71\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\5910b931ca3954747a23f405d46eed94\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\e6ca028f107853fcf82c7c07cbe4f8b2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\bc1397c73cc39ec753a9adba99d38b4c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\bd3ec58d9a71c2c74a84805a8deee23e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\07285acca0e91a1121c8931a5078e668\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\95293611d41a673400181d52cc98fd99\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\54bdd62b5bc9b0261e55c0d916079cba\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\9f508eab374619e650622d50a953b8d4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\da51e8e5786b23d5ed0d733d493e4873\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\3f366768fade9d036f2f86dcdeb560db\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\c153a087f5c5e057c0f281da7c095d4b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\e1114cfb315d30d33f4a8199ee151ee9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\9e1bf966d9194849a2ce4fd96fc79d16\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\38c0be7df97eadd00f293b5ab76470aa\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\cf8d149dba4d408ae24369d3273b528b\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\93a2b5f3349a3cd67d16c6c7a84053c4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\c932c72aee7d6707cba5ed0883b3db71\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\7d097e5619e588bcd95b4b1639d5f4a3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\3276a80d6872e4754bf0877757a9c173\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\c6f6f720ba827e953bb901adb3563c35\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\85cda063c98a3217207595987c6b7e29\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\622a25bc808c6939a78ec7a7291cd223\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\05a0ac3cbbfff2944e15854ef0d94789\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\09472d9cc2c532e4e3563b98f05c0f8a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\e3500b7e15349f0063b6c80cf76381ab\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\84c92cab6605b896016efe87d8852ace\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.ar.sceneform:core:1.12.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\68fa00705c111ae6746e74a2e98a0ec7\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.ar.sceneform:rendering:1.12.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\d396c50cf7d326d7e1a1e7dbe194e607\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.ar.sceneform:sceneform-base:1.12.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\08f72ebb5696f282c6755b7aee3d257e\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.ar.sceneform:filament-android:1.12.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\dd178a2f480c760a25d983c64e5df02a\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.ar:core:1.12.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\0bef2fd5aeb65db5583eeeba49aa126a\AndroidManifest.xml:17:1-46:12
+INJECTED from D:\Desktop\Workspace\workspaceANDORID\ARTEBIOCUL\augmentedimage\app\src\main\AndroidManifest.xml:17:1-49:12
+INJECTED from D:\Desktop\Workspace\workspaceANDORID\ARTEBIOCUL\augmentedimage\app\src\main\AndroidManifest.xml:17:1-49:12
+INJECTED from D:\Desktop\Workspace\workspaceANDORID\ARTEBIOCUL\augmentedimage\app\src\main\AndroidManifest.xml:17:1-49:12
+	package
+		ADDED from D:\Desktop\Workspace\workspaceANDORID\ARTEBIOCUL\augmentedimage\app\src\main\AndroidManifest.xml:19:5-61
+		INJECTED from D:\Desktop\Workspace\workspaceANDORID\ARTEBIOCUL\augmentedimage\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Desktop\Workspace\workspaceANDORID\ARTEBIOCUL\augmentedimage\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Desktop\Workspace\workspaceANDORID\ARTEBIOCUL\augmentedimage\app\src\main\AndroidManifest.xml
+		ADDED from D:\Desktop\Workspace\workspaceANDORID\ARTEBIOCUL\augmentedimage\app\src\main\AndroidManifest.xml:17:1-49:12
+		INJECTED from D:\Desktop\Workspace\workspaceANDORID\ARTEBIOCUL\augmentedimage\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Desktop\Workspace\workspaceANDORID\ARTEBIOCUL\augmentedimage\app\src\main\AndroidManifest.xml:18:5-51
+	android:versionCode
+		INJECTED from D:\Desktop\Workspace\workspaceANDORID\ARTEBIOCUL\augmentedimage\app\src\main\AndroidManifest.xml
+		ADDED from D:\Desktop\Workspace\workspaceANDORID\ARTEBIOCUL\augmentedimage\app\src\main\AndroidManifest.xml:17:1-49:12
+		INJECTED from D:\Desktop\Workspace\workspaceANDORID\ARTEBIOCUL\augmentedimage\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Desktop\Workspace\workspaceANDORID\ARTEBIOCUL\augmentedimage\app\src\main\AndroidManifest.xml:17:11-69
+uses-permission#android.permission.CAMERA
+ADDED from D:\Desktop\Workspace\workspaceANDORID\ARTEBIOCUL\augmentedimage\app\src\main\AndroidManifest.xml:21:3-62
+	android:name
+		ADDED from D:\Desktop\Workspace\workspaceANDORID\ARTEBIOCUL\augmentedimage\app\src\main\AndroidManifest.xml:21:20-60
+uses-feature#android.hardware.camera.ar
+ADDED from D:\Desktop\Workspace\workspaceANDORID\ARTEBIOCUL\augmentedimage\app\src\main\AndroidManifest.xml:24:3-84
+	android:required
+		ADDED from D:\Desktop\Workspace\workspaceANDORID\ARTEBIOCUL\augmentedimage\app\src\main\AndroidManifest.xml:24:59-82
+	android:name
+		ADDED from D:\Desktop\Workspace\workspaceANDORID\ARTEBIOCUL\augmentedimage\app\src\main\AndroidManifest.xml:24:17-58
+application
+ADDED from D:\Desktop\Workspace\workspaceANDORID\ARTEBIOCUL\augmentedimage\app\src\main\AndroidManifest.xml:26:3-48:17
+MERGED from [com.android.support:design:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\58bbe42af9dc6ab8bb0dab7fd636a58a\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\58bbe42af9dc6ab8bb0dab7fd636a58a\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\38c0be7df97eadd00f293b5ab76470aa\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\38c0be7df97eadd00f293b5ab76470aa\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\cf8d149dba4d408ae24369d3273b528b\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\cf8d149dba4d408ae24369d3273b528b\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.ar:core:1.12.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\0bef2fd5aeb65db5583eeeba49aa126a\AndroidManifest.xml:30:5-44:19
+MERGED from [com.google.ar:core:1.12.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\0bef2fd5aeb65db5583eeeba49aa126a\AndroidManifest.xml:30:5-44:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\38c0be7df97eadd00f293b5ab76470aa\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from D:\Desktop\Workspace\workspaceANDORID\ARTEBIOCUL\augmentedimage\app\src\main\AndroidManifest.xml:29:7-39
+	tools:ignore
+		ADDED from D:\Desktop\Workspace\workspaceANDORID\ARTEBIOCUL\augmentedimage\app\src\main\AndroidManifest.xml:32:7-46
+	android:icon
+		ADDED from D:\Desktop\Workspace\workspaceANDORID\ARTEBIOCUL\augmentedimage\app\src\main\AndroidManifest.xml:28:7-43
+	android:allowBackup
+		ADDED from D:\Desktop\Workspace\workspaceANDORID\ARTEBIOCUL\augmentedimage\app\src\main\AndroidManifest.xml:27:7-34
+	android:theme
+		ADDED from D:\Desktop\Workspace\workspaceANDORID\ARTEBIOCUL\augmentedimage\app\src\main\AndroidManifest.xml:30:7-38
+	android:usesCleartextTraffic
+		ADDED from D:\Desktop\Workspace\workspaceANDORID\ARTEBIOCUL\augmentedimage\app\src\main\AndroidManifest.xml:31:7-43
+activity#com.google.ar.sceneform.samples.augmentedimage.AugmentedImageActivity
+ADDED from D:\Desktop\Workspace\workspaceANDORID\ARTEBIOCUL\augmentedimage\app\src\main\AndroidManifest.xml:34:5-44:16
+	android:screenOrientation
+		ADDED from D:\Desktop\Workspace\workspaceANDORID\ARTEBIOCUL\augmentedimage\app\src\main\AndroidManifest.xml:39:9-43
+	android:exported
+		ADDED from D:\Desktop\Workspace\workspaceANDORID\ARTEBIOCUL\augmentedimage\app\src\main\AndroidManifest.xml:37:9-32
+	android:configChanges
+		ADDED from D:\Desktop\Workspace\workspaceANDORID\ARTEBIOCUL\augmentedimage\app\src\main\AndroidManifest.xml:36:9-55
+	android:theme
+		ADDED from D:\Desktop\Workspace\workspaceANDORID\ARTEBIOCUL\augmentedimage\app\src\main\AndroidManifest.xml:38:9-59
+	android:name
+		ADDED from D:\Desktop\Workspace\workspaceANDORID\ARTEBIOCUL\augmentedimage\app\src\main\AndroidManifest.xml:35:9-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Desktop\Workspace\workspaceANDORID\ARTEBIOCUL\augmentedimage\app\src\main\AndroidManifest.xml:40:7-43:23
+action#android.intent.action.MAIN
+ADDED from D:\Desktop\Workspace\workspaceANDORID\ARTEBIOCUL\augmentedimage\app\src\main\AndroidManifest.xml:41:9-60
+	android:name
+		ADDED from D:\Desktop\Workspace\workspaceANDORID\ARTEBIOCUL\augmentedimage\app\src\main\AndroidManifest.xml:41:17-58
+category#android.intent.category.LAUNCHER
+ADDED from D:\Desktop\Workspace\workspaceANDORID\ARTEBIOCUL\augmentedimage\app\src\main\AndroidManifest.xml:42:9-68
+	android:name
+		ADDED from D:\Desktop\Workspace\workspaceANDORID\ARTEBIOCUL\augmentedimage\app\src\main\AndroidManifest.xml:42:19-66
+meta-data#com.google.ar.core
+ADDED from D:\Desktop\Workspace\workspaceANDORID\ARTEBIOCUL\augmentedimage\app\src\main\AndroidManifest.xml:47:5-77
+	android:value
+		ADDED from D:\Desktop\Workspace\workspaceANDORID\ARTEBIOCUL\augmentedimage\app\src\main\AndroidManifest.xml:47:50-74
+	android:name
+		ADDED from D:\Desktop\Workspace\workspaceANDORID\ARTEBIOCUL\augmentedimage\app\src\main\AndroidManifest.xml:47:16-49
+uses-sdk
+INJECTED from D:\Desktop\Workspace\workspaceANDORID\ARTEBIOCUL\augmentedimage\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Desktop\Workspace\workspaceANDORID\ARTEBIOCUL\augmentedimage\app\src\main\AndroidManifest.xml
+INJECTED from D:\Desktop\Workspace\workspaceANDORID\ARTEBIOCUL\augmentedimage\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\58bbe42af9dc6ab8bb0dab7fd636a58a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\58bbe42af9dc6ab8bb0dab7fd636a58a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\81fa3213d122af49b668702e20557043\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\81fa3213d122af49b668702e20557043\AndroidManifest.xml:20:5-44
+MERGED from [com.google.ar.sceneform.ux:sceneform-ux:1.12.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\ad9e22049ab5c81872ea5d6cc6c5c8ec\AndroidManifest.xml:20:5-44
+MERGED from [com.google.ar.sceneform.ux:sceneform-ux:1.12.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\ad9e22049ab5c81872ea5d6cc6c5c8ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\d6c24fb9701a96e43e9a9b71fbc89115\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\d6c24fb9701a96e43e9a9b71fbc89115\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\f5b6612e6763ac3c60b99c3ee23a0c71\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\f5b6612e6763ac3c60b99c3ee23a0c71\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\5910b931ca3954747a23f405d46eed94\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\5910b931ca3954747a23f405d46eed94\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\e6ca028f107853fcf82c7c07cbe4f8b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\e6ca028f107853fcf82c7c07cbe4f8b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\bc1397c73cc39ec753a9adba99d38b4c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\bc1397c73cc39ec753a9adba99d38b4c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\bd3ec58d9a71c2c74a84805a8deee23e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\bd3ec58d9a71c2c74a84805a8deee23e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\07285acca0e91a1121c8931a5078e668\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\07285acca0e91a1121c8931a5078e668\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\95293611d41a673400181d52cc98fd99\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\95293611d41a673400181d52cc98fd99\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\54bdd62b5bc9b0261e55c0d916079cba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\54bdd62b5bc9b0261e55c0d916079cba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\9f508eab374619e650622d50a953b8d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\9f508eab374619e650622d50a953b8d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\da51e8e5786b23d5ed0d733d493e4873\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\da51e8e5786b23d5ed0d733d493e4873\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\3f366768fade9d036f2f86dcdeb560db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\3f366768fade9d036f2f86dcdeb560db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\c153a087f5c5e057c0f281da7c095d4b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\c153a087f5c5e057c0f281da7c095d4b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\e1114cfb315d30d33f4a8199ee151ee9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\e1114cfb315d30d33f4a8199ee151ee9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\9e1bf966d9194849a2ce4fd96fc79d16\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\9e1bf966d9194849a2ce4fd96fc79d16\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\38c0be7df97eadd00f293b5ab76470aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\38c0be7df97eadd00f293b5ab76470aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\cf8d149dba4d408ae24369d3273b528b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\cf8d149dba4d408ae24369d3273b528b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\93a2b5f3349a3cd67d16c6c7a84053c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\93a2b5f3349a3cd67d16c6c7a84053c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\c932c72aee7d6707cba5ed0883b3db71\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\c932c72aee7d6707cba5ed0883b3db71\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\7d097e5619e588bcd95b4b1639d5f4a3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\7d097e5619e588bcd95b4b1639d5f4a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\3276a80d6872e4754bf0877757a9c173\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\3276a80d6872e4754bf0877757a9c173\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\c6f6f720ba827e953bb901adb3563c35\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\c6f6f720ba827e953bb901adb3563c35\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\85cda063c98a3217207595987c6b7e29\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\85cda063c98a3217207595987c6b7e29\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\622a25bc808c6939a78ec7a7291cd223\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\622a25bc808c6939a78ec7a7291cd223\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\05a0ac3cbbfff2944e15854ef0d94789\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\05a0ac3cbbfff2944e15854ef0d94789\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\09472d9cc2c532e4e3563b98f05c0f8a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\09472d9cc2c532e4e3563b98f05c0f8a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\e3500b7e15349f0063b6c80cf76381ab\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\e3500b7e15349f0063b6c80cf76381ab\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\84c92cab6605b896016efe87d8852ace\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\84c92cab6605b896016efe87d8852ace\AndroidManifest.xml:20:5-44
+MERGED from [com.google.ar.sceneform:core:1.12.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\68fa00705c111ae6746e74a2e98a0ec7\AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:core:1.12.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\68fa00705c111ae6746e74a2e98a0ec7\AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:rendering:1.12.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\d396c50cf7d326d7e1a1e7dbe194e607\AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:rendering:1.12.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\d396c50cf7d326d7e1a1e7dbe194e607\AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:sceneform-base:1.12.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\08f72ebb5696f282c6755b7aee3d257e\AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:sceneform-base:1.12.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\08f72ebb5696f282c6755b7aee3d257e\AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:filament-android:1.12.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\dd178a2f480c760a25d983c64e5df02a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.ar.sceneform:filament-android:1.12.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\dd178a2f480c760a25d983c64e5df02a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.ar:core:1.12.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\0bef2fd5aeb65db5583eeeba49aa126a\AndroidManifest.xml:26:5-28:41
+MERGED from [com.google.ar:core:1.12.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\0bef2fd5aeb65db5583eeeba49aa126a\AndroidManifest.xml:26:5-28:41
+INJECTED from D:\Desktop\Workspace\workspaceANDORID\ARTEBIOCUL\augmentedimage\app\src\main\AndroidManifest.xml
+INJECTED from D:\Desktop\Workspace\workspaceANDORID\ARTEBIOCUL\augmentedimage\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Desktop\Workspace\workspaceANDORID\ARTEBIOCUL\augmentedimage\app\src\main\AndroidManifest.xml
+		ADDED from D:\Desktop\Workspace\workspaceANDORID\ARTEBIOCUL\augmentedimage\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Desktop\Workspace\workspaceANDORID\ARTEBIOCUL\augmentedimage\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Desktop\Workspace\workspaceANDORID\ARTEBIOCUL\augmentedimage\app\src\main\AndroidManifest.xml
+		ADDED from D:\Desktop\Workspace\workspaceANDORID\ARTEBIOCUL\augmentedimage\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Desktop\Workspace\workspaceANDORID\ARTEBIOCUL\augmentedimage\app\src\main\AndroidManifest.xml
+meta-data#com.google.ar.core.min_apk_version
+ADDED from [com.google.ar:core:1.12.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\0bef2fd5aeb65db5583eeeba49aa126a\AndroidManifest.xml:33:9-35:41
+	android:value
+		ADDED from [com.google.ar:core:1.12.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\0bef2fd5aeb65db5583eeeba49aa126a\AndroidManifest.xml:35:13-38
+	android:name
+		ADDED from [com.google.ar:core:1.12.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\0bef2fd5aeb65db5583eeeba49aa126a\AndroidManifest.xml:34:13-62
+activity#com.google.ar.core.InstallActivity
+ADDED from [com.google.ar:core:1.12.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\0bef2fd5aeb65db5583eeeba49aa126a\AndroidManifest.xml:37:9-43:80
+	android:excludeFromRecents
+		ADDED from [com.google.ar:core:1.12.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\0bef2fd5aeb65db5583eeeba49aa126a\AndroidManifest.xml:40:13-46
+	android:launchMode
+		ADDED from [com.google.ar:core:1.12.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\0bef2fd5aeb65db5583eeeba49aa126a\AndroidManifest.xml:42:13-43
+	android:exported
+		ADDED from [com.google.ar:core:1.12.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\0bef2fd5aeb65db5583eeeba49aa126a\AndroidManifest.xml:41:13-37
+	android:configChanges
+		ADDED from [com.google.ar:core:1.12.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\0bef2fd5aeb65db5583eeeba49aa126a\AndroidManifest.xml:39:13-74
+	android:theme
+		ADDED from [com.google.ar:core:1.12.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\0bef2fd5aeb65db5583eeeba49aa126a\AndroidManifest.xml:43:13-77
+	android:name
+		ADDED from [com.google.ar:core:1.12.0] C:\Users\ToniCors\.gradle\caches\transforms-2\files-2.1\0bef2fd5aeb65db5583eeeba49aa126a\AndroidManifest.xml:38:13-62
